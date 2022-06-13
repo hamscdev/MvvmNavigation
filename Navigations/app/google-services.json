@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243130958535",
+    "project_id": "pruebas-geolocalizacion-294119",
+    "storage_bucket": "pruebas-geolocalizacion-294119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243130958535:android:14efafc7e79565624b74e2",
+        "android_client_info": {
+          "package_name": "com.devnight.navigations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243130958535-e728uuad9r6mc4e7vdei7pcr9pjpmodb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devnight.navigations",
+            "certificate_hash": "8907083fd472fdedc793b26473953ac6663ab88b"
+          }
+        },
+        {
+          "client_id": "243130958535-leahaa6q6tvv1rkokdl4qe1d24lkm59s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnNwxiDAaDX8amQAjNDRXREboN1Z-sjIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243130958535-leahaa6q6tvv1rkokdl4qe1d24lkm59s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
